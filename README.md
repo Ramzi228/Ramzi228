@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramzi</h1>
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5003&pause=1000&color=F70000&random=false&width=435&lines=I+am+a+developer+of+mobile+and+computer+games" alt="Typing SVG" /></a>
-
-  ![unity-game-dev](https://github.com/Ramzi228/probable-octo-fiesta/assets/52506876/d803e590-a33c-498b-91f1-933550655aab)
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5003&pause=1000&color=F70000&random=false&width=435&lines=I+am+a+developer+of+mobile+and+computer+games" alt="Typing SVG" /></a> 
+![unity-game-dev](https://github.com/Ramzi228/Ramzi228/assets/52506876/121ce5fd-f944-496a-a336-14436d462338)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzi228&label=Profile%20views&color=0e75b6&style=flat" alt="ramzi228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzi228" alt="ramzi228" /></a> </p>
